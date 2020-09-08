@@ -1,0 +1,15 @@
+Boulderzeiten im Boulderplanet
+
+Wann gibt es wie viele Leute?
+
+Hier kann man es sehen:
+
+- Nach Wochentag
+- Nach Uhrzeit
+
+Color:
+#A9D9DA
+
+<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@300&display=swap" rel="stylesheet">
+
+font-family: 'Kumbh Sans', sans-serif;
